@@ -1,9 +1,34 @@
-img.photo{
-    width: 500px !important;
+.family-img {
+    height: 375px; 
 }
 
 @media(min-width: 768px){
     .news-input{
         width: 50% !important;
     }
+}
+
+.loid-image {
+    width: 50%;
+    margin-left: 100px;
+}
+
+.yor-image {
+    width: 75%;
+}
+
+.loid-face {
+    height: 125px;
+}
+
+.yor-face {
+    height: 125px;
+}
+
+.anya-face {
+    height: 125px;
+}
+
+.bond-face {
+    height: 125px;
 }
